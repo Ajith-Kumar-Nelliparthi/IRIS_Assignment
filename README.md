@@ -33,6 +33,13 @@ This FastAPI application processes Excel files (`.xls` or `.xlsx`) and exposes e
    ```bash
    pytest
 
+## Results
+- ![Screenshot 2025-05-10 100842](https://github.com/user-attachments/assets/f054eac8-0715-4a74-86a0-c016dfb3618d)
+- ![Screenshot 2025-05-10 100919](https://github.com/user-attachments/assets/84cd63e6-d1a8-40e3-b132-21fbcf68b85a)
+- ![Screenshot 2025-05-10 100951](https://github.com/user-attachments/assets/962823c3-4283-4441-b3d8-692b68f09ec5)
+
+
+
 ## Postman Collection
 Import postman_collection.json into Postman to test the endpoints. First, upload an Excel file using the /upload_excel endpoint, then test the other endpoints.
 
